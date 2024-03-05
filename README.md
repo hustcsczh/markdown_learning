@@ -56,11 +56,11 @@
 
 1.单独的公式（两个$符号）
 
-$$\lim{x \to \infin}\frac{sin(t)}{x}=1$$
+$$\lim{x \to \infin}\frac{sin(x)}{x}=1$$
 
 2.文本中的公式（一个$符号）
 
-比如在这一段话 $\lim{x \to \infin}\frac{sin(t)}{x}=1$ 中间插入
+比如在这一段话 $\lim{x \to \infin}\frac{sin(x)}{x}=1$ 中间插入
 
 ## 5:表格
 
